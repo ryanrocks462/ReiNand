@@ -1,6 +1,6 @@
 # ReiNand
 *The original open source ~~N3DS~~ O3DS Panda unit CFW!*
-
+(N3DS "IS-Snake-Debugger cfw soon?)
 
 **Compiling:**
 
