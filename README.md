@@ -1,4 +1,4 @@
-# ReiNand
+# ReiNand-4-Panda-Unit
 *The original open source ~~N3DS~~ O3DS Panda unit CFW!*
 (N3DS "IS-Snake-Debugger" cfw may come in the future)
 
@@ -39,9 +39,9 @@ Copy everything in 'out' folder to SD root and run!
  
  Normmatt for sdmmc.c and generally being helpful!
  
- AuroraWright for being helpful!
-    
- Me (Rei) for coding everything else.
+ Rei for coding everything else.
  
  The community for your support and help!
+ 
+ And me (Ryan) for being an Adorbs kitty and dumping my Partner-CTRs NANDs x3
  
