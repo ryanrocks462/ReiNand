@@ -29,9 +29,9 @@ Copy everything in 'out' folder to SD root and run!
 
 **Credits:**
  
- Cakes team for teaching me a few things and just being helpful in general! And for ROP/mset related code, and crypto libs.
+ Cakes team for teaching Rei a few things and just being helpful in general! And for ROP/mset related code, and crypto libs.
     
- 3DBREW for saving me plenty of reverse engineering time.
+ 3DBREW for saving Rei plenty of reverse engineering time.
     
  Patois/Cakes for CakesBrah.
  
@@ -40,8 +40,6 @@ Copy everything in 'out' folder to SD root and run!
  Normmatt for sdmmc.c and generally being helpful!
  
  Rei for coding everything else.
- 
- The community for your support and help!
  
  And me (Ryan) for being an Adorbs kitty and dumping my Partner-CTRs NANDs x3
  
